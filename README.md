@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ella</h1>
+<h1 align="center">Hi 👋, I'm Ishfaq Ahmed</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ella22o&label=Profile%20views&color=0e75b6&style=flat" alt="ella22o" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++ Java JavaScript Html Css**
 
-- 📫 How to reach me **ellaclaire22o@gmail.com**
+- 📫 How to reach me **ishfaq2106@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
